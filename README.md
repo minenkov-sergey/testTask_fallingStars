@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a test task on Nextjs framework.
+libraries: react, emotion, typescript.
